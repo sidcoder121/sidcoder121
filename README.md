@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddharth saxena
 - 👀 I’m interested in Python programming.
 - 🌱 I’m currently learning Python libraries.
-- 💞️ I’m looking to collaborate on MNC
+- 💞️ I’m looking for a company hire me as a python developer
 
 
 <!---

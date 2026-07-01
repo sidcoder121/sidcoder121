@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddharth saxena
-- 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning Python libraries.
-- 💞️ I’m looking for a company hire me as a python developer
+- 👀 I’m interested in Python programming and MERN Stack.
+- 🌱 I’m currently learning Python libraries and MERN.
+- 💞️ I’m looking for a company hire me as a python developer or MERN Stack developer.
 
 
 <!---
